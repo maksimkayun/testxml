@@ -1,0 +1,16 @@
+C:\Users\maksk\Desktop\GIT\testxml\testxml\bin\Debug\net5.0\testxml.exe
+C:\Users\maksk\Desktop\GIT\testxml\testxml\bin\Debug\net5.0\testxml.deps.json
+C:\Users\maksk\Desktop\GIT\testxml\testxml\bin\Debug\net5.0\testxml.runtimeconfig.json
+C:\Users\maksk\Desktop\GIT\testxml\testxml\bin\Debug\net5.0\testxml.runtimeconfig.dev.json
+C:\Users\maksk\Desktop\GIT\testxml\testxml\bin\Debug\net5.0\testxml.dll
+C:\Users\maksk\Desktop\GIT\testxml\testxml\bin\Debug\net5.0\ref\testxml.dll
+C:\Users\maksk\Desktop\GIT\testxml\testxml\bin\Debug\net5.0\testxml.pdb
+C:\Users\maksk\Desktop\GIT\testxml\testxml\obj\Debug\net5.0\testxml.csproj.AssemblyReference.cache
+C:\Users\maksk\Desktop\GIT\testxml\testxml\obj\Debug\net5.0\testxml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksk\Desktop\GIT\testxml\testxml\obj\Debug\net5.0\testxml.AssemblyInfoInputs.cache
+C:\Users\maksk\Desktop\GIT\testxml\testxml\obj\Debug\net5.0\testxml.AssemblyInfo.cs
+C:\Users\maksk\Desktop\GIT\testxml\testxml\obj\Debug\net5.0\testxml.csproj.CoreCompileInputs.cache
+C:\Users\maksk\Desktop\GIT\testxml\testxml\obj\Debug\net5.0\testxml.dll
+C:\Users\maksk\Desktop\GIT\testxml\testxml\obj\Debug\net5.0\ref\testxml.dll
+C:\Users\maksk\Desktop\GIT\testxml\testxml\obj\Debug\net5.0\testxml.pdb
+C:\Users\maksk\Desktop\GIT\testxml\testxml\obj\Debug\net5.0\testxml.genruntimeconfig.cache
